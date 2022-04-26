@@ -12,4 +12,5 @@
 <h3>How to use</h3>
 <p>> Forking or cloning the repository</p>
 <p>> Install node modules with "npm i" in both directories /api and /client</p>
+<p>> Make sure you have node and mongodb installed</p>
 <p>> Start both with "npm start"</p>
